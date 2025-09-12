@@ -47,6 +47,6 @@ It showcases **data cleaning, preprocessing, modeling, and visualization** to pr
 ## 📌 Author
 👤 **Jeetu Raut**  
 - 💼 Data Analyst Intern @ InfoOrigin  
-- 🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub]()  
 
 ---
