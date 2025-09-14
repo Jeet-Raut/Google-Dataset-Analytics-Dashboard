@@ -30,7 +30,13 @@ It showcases **data cleaning, preprocessing, modeling, and visualization** to pr
 - **Multi-source Data Integration in a Unified Dashboard**  
 
 ---
+## 🚀 How to Use
+1. Clone this repository.  
+2. Open the `.pbix` file in **Power BI Desktop**.  
+3. Refresh the dataset connections if required.  
+4. Explore the interactive visuals, filters, and insights.  
 
+---
 
 
 ## 📂 Project File
