@@ -6,6 +6,13 @@ It showcases **data cleaning, preprocessing, modeling, and visualization** to pr
 
 ---
 
+## 🎯 Key Features
+- 🔹 **Data Integration**: Combined Google Datasets with SQL queries and Excel preprocessing for multi-source analytics.  
+- 🔹 **Data Modeling**: Built a robust Power BI data model with relationships, hierarchies, and star schema design.  
+- 🔹 **DAX & KPIs**: Implemented advanced DAX calculations for key performance indicators, trend analysis, and business metrics.  
+- 🔹 **Interactive Dashboards**: Added slicers, drill-through, and bookmarks for enhanced interactivity and executive-ready reporting.  
+- 🔹 **Actionable Insights**: Delivered insights into **performance trends, revenue drivers, and decision-making factors**.  
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -23,11 +30,7 @@ It showcases **data cleaning, preprocessing, modeling, and visualization** to pr
 - **Multi-source Data Integration in a Unified Dashboard**  
 
 ---
-## 🚀 How to Use
-1. Clone this repository.  
-2. Open the `.pbix` file in **Power BI Desktop**.  
-3. Refresh the dataset connections if required.  
-4. Explore the interactive visuals, filters, and insights.  
+ 
 
 ---
 
