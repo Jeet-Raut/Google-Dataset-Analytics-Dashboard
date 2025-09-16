@@ -45,6 +45,8 @@ It showcases **data cleaning, preprocessing, modeling, and visualization** to pr
 
 ## 📌 Author
 👤 **Jeetu Raut**   
+- jeet.rautt@gmail.com
+- 
 - 🔗 https://linkedin.com/in/JeetRaut26
  
 ---
