@@ -1,6 +1,7 @@
 # Google Dataset Analytics Dashboard
 
-## 📌 About 
+## 📌 About  
+
 This project demonstrates how to build a **comprehensive Power BI dashboard** using **Google Datasets, SQL, and Microsoft Excel**.  
 It showcases **data cleaning, preprocessing, modeling, and visualization** to provide actionable business insights for executives.  
 
