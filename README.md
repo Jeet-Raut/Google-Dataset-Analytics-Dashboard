@@ -42,7 +42,6 @@ It showcases **data cleaning, preprocessing, modeling, and visualization** to pr
 
 ## 📂 Project File
 - `Dashboard Using Google DataSet.pbix` – Full Power BI project file.  
-
 ---
 
 ## 📌 Author
