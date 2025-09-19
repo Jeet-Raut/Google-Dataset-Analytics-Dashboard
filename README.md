@@ -6,7 +6,7 @@ This project demonstrates how to build a **comprehensive Power BI dashboard** us
 It showcases **data cleaning, preprocessing, modeling, and visualization** to provide actionable business insights for executives.  
 
 ---
-
+ 
 ## 🎯 Key Features 
 - 🔹 **Data Integration**: Combined Google Datasets with SQL queries and Excel preprocessing for multi-source analytics.  
 - 🔹 **Data Modeling**: Built a robust Power BI data model with relationships, hierarchies, and star schema design.  
