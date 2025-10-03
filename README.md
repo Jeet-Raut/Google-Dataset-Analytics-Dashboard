@@ -6,7 +6,7 @@ It showcases **data cleaning, preprocessing, modeling, and visualization** to pr
 
 ---
 
-## 🎯 Key Features 
+## 🎯 Key Features
 - 🔹 **Data Integration**: Combined Google Datasets with SQL queries and Excel preprocessing for multi-source analytics.  
 - 🔹 **Data Modeling**: Built a robust Power BI data model with relationships, hierarchies, and star schema design.  
 - 🔹 **DAX & KPIs**: Implemented advanced DAX calculations for key performance indicators, trend analysis, and business metrics.  
